@@ -26,10 +26,10 @@ for data visualization I used seaborn library
 # the estimates that the models showed
 
 
-LogisticRegression Accuracy score : 0.9883 ROC-AUC score : 0.9874
-GradientBoostingClassifier Accuracy score : 0.9591 ROC-AUC score : 0.9544
-KNN Accuracy score : 0.9591 ROC-AUC score : 0.9511
-SVC Accuracy score : 0.9883 ROC-AUC score : 0.9841
-Naive Bayes Accuracy score : 0.9357 ROC-AUC score : 0.9292
-RandomForestClassifier Accuracy score : 0.9708 ROC-AUC score : 0.9636
+* LogisticRegression Accuracy score : 0.9883 ROC-AUC score : 0.9874
+* GradientBoostingClassifier Accuracy score : 0.9591 ROC-AUC score : 0.9544
+* KNN Accuracy score : 0.9591 ROC-AUC score : 0.9511
+* SVC Accuracy score : 0.9883 ROC-AUC score : 0.9841
+* Naive Bayes Accuracy score : 0.9357 ROC-AUC score : 0.9292
+* RandomForestClassifier Accuracy score : 0.9708 ROC-AUC score : 0.9636
 
